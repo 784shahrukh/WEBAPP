@@ -1,0 +1,74 @@
+.top-header{
+  background-color: #316DC3;
+}
+.header-pera{
+  padding: 1%;
+  color: #FFF;
+}
+.top-header-icon{
+  padding: 1%;
+  color: white;
+}
+.header-i{
+ margin-left: 5%;
+}
+.top-header-icon>span>a{
+  color: #fff;
+}
+.5-3-2020{
+  flex-wrap: none;
+}
+.nav-menu-right{
+  width: 100%;
+}
+.intro-heading{
+color: #316DC3;
+}
+.duction-heading{
+ color: #427900;
+}
+.intro-pera{
+  text-align: justify;
+}
+.intro-h1{
+  text-align: center;
+  margin-top:5%;
+  margin-bottom:5%;
+}
+
+.counter{
+  background-color: #316DC3;
+  height: 25%;
+}
+.counter-icon{
+  color: #FFF;
+  font-size: 60px;
+  margin-top: 5%;
+}
+.card-title{
+  text-align: center;
+}
+.card-icon{
+  color: #316DC3;
+  font-size: 80px;
+  margin-top: 5% !important;
+  margin-bottom: 5% !important;
+  display: block;
+  margin: auto;
+}
+.card-icon-event{
+  color: #316DC3;
+  font-size: 50px;
+  margin: 5%;
+}
+.top-footer{
+  background-color: rgb(0, 0, 0);
+}
+.widget.dark .widget-title {
+  color: #fff;
+}
+.styled-icons li {
+  display: inline-block;
+  margin-bottom: 0;
+  margin-top: 0;
+}
